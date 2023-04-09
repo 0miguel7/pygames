@@ -1,0 +1,5 @@
+window =  1000 de ancho y 600 de alto
+nivel del piso = 500 desde arriba y 100 desde abajo , grosor de 100 pixeles
+enemigo = 56 x 80 cuadrado
+player = 77 x 100 , largo x alto, rectangulo
+ 
